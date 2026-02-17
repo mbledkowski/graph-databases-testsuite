@@ -35,7 +35,7 @@ To reproduce the experiments the suggested setup is:
 
 ## Getting the data
 
-We provide a copy of all our datasets in a [single archive](https://disi.unitn.it/~brugnara/data/) and on a [mirror on Drive](https://drive.google.com/drive/folders/0BwX66B9ISrt4UXZrXzhIRGV2V3M?usp=sharing)
+We provide a copy of all our datasets in a [single archive](https://disi.unitn.it/~brugnara/data/)
 
 You can download, unpack it in the folder `runtime/data`, and check the integrity with the following commands:
  
